@@ -1,0 +1,113 @@
+.auth{
+    width: 100%;
+}
+#card-main{
+    width: 925px;
+    background-color: red;
+    height: 400px;
+    margin:auto;
+    margin-top:50px;
+    border-radius:10px ;
+}
+.img1{
+    position: absolute;
+    left: 25rem;
+    top: 21rem;;
+}
+.img2{
+    position: absolute;
+    left: 49.5rem;
+    top: 19rem;
+}
+.img3{
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+}
+.img4{
+    position: absolute;
+    left: 36.5rem;
+    top: 0rem;
+}
+#title-card-home{
+    width: 357px;
+    height: 65px;
+    font-family: 'Freight';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 65px;
+    color: #FFFFFF;
+    margin-top: 45px;
+    margin-left: 65px;
+}
+#title-card-home2{
+    max-width: 25rem;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 33px;
+    color: #FFFFFF;
+    margin-left: 65px;
+}
+#img-main{
+    position: absolute;
+    width: 400px;
+    height: 305px;
+    top: 3rem;
+    left: 39rem;
+    border-radius: 10px;
+}
+.f1{
+    margin-left: 18.5rem;
+    margin-top: 2rem;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 49px;
+    color: #BD0707;
+}
+.f2{
+    display: flex;
+    /* background: #F7DADA; */
+    margin-left: 18.5rem;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    cursor: pointer;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.inputProduct{
+    background: rgba(224, 200, 200, 0.25);
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    width: 459px;
+    height: 50px;
+}
+.cardTitle{
+    font-weight: 900;
+    color: #BD0707;
+}
+.cardPrice{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #974A4A;
+}
+.DrinkList{
+    background: #F7DADA;
+}
+
+
+/* navbar img profile */
+.navbar .d-flex .imgProfile {
+    border-radius: 80px;
+    background: #73AD21;
+    padding: 0px;
+    width: 60px;
+    height: 60px;
+    border: 3px solid #bd2a2a;
+}
+.navbar .ms-5 .img-logo {
+    width: 55px;
+    height: 55px;
+    margin-top: 9px;
+}

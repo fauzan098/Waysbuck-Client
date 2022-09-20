@@ -1,0 +1,60 @@
+
+
+.detail-productPage{
+    margin-left: 20rem;
+}
+.detailProdukImg img{
+    width: 436px;
+    height: 555px;
+}
+.title-detailProuct h2 {
+    margin-left: 4rem;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 66px;
+    color: #BD0707;
+}
+.title-detailProduct p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #974A4A;
+}
+.title-detailProduct .list-toping h5{
+    margin-left: 1.5rem;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #974A4A;
+}
+/* .toping{
+    width: 50%;
+} */
+.toping img{
+    margin-left: 2rem;
+    /* margin-right: 2rem; */
+    margin-top: 2rem;
+}
+.toping .col-toping{
+    width: 50%;
+}
+.toping .list-toping1 .col-toping .row-toping .nameToping{
+    width: 100%;
+    font-weight: 500;
+    font-size: 10px;
+    /* line-height: 19px; */
+    margin-left: 1.7rem;
+    color: #BD0707;
+}
+.poppingCheck:checked + label::after  {
+    content: url(../assets/img/checklist.png);
+    height: 12px;
+    border-radius: 10px;
+    top: 360px;
+    left: 749px;
+}
+
+/* css total */
+.justify-content-between .col-2 .font-weight-bold {
+    width: 96px;
+}

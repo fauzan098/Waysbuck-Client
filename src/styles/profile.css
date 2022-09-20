@@ -1,0 +1,68 @@
+.profile{
+    width: 85%;
+    margin: auto;
+}
+.myProfile h2{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    color: #BD0707;
+}
+.myProfile .d-flex .detail-profile h5{
+    color:#613D2B;
+}
+.profile .myProfile .d-flex .img-profile img {
+    width: 290px;
+    height: 221.79px;
+}
+.myTransaction h2{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    color: #BD0707;
+}
+.myTransaction{
+    margin-left: 10%;
+}
+.myTransaction .d-flex {
+    background-color: #F7DADA;
+
+}
+.detailTransaction{
+    border-radius: 10px;
+}
+.detailTransaction .img-drink {
+    width: 80px;
+    height: 97px;
+}
+.detailTransaction h4{
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 19px;
+}
+.detailTransaction p{
+    font-weight: 900;
+    font-size: 9px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+/* .asdf {
+    margin-left: 6%;
+} */
+.detailTransaction .status{
+    width: 112px;
+    height: 19px;
+    background: linear-gradient(180deg, #00D1FF 0%, #00D1FF 100%);
+    opacity: 0.1;
+    border-radius: 2px;
+}
+ span{
+    display: flex;
+    width: 7rem;
+    color: #0988ff;
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 14px;
+}

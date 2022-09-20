@@ -1,0 +1,50 @@
+.page-add-product{
+    display: flex;
+    margin-top: 6%;
+    margin-bottom: 10%;
+
+}
+.formPageProduct{
+    margin-left: -19rem;
+    margin-top: 1%;
+}
+.form-addProduct{
+    width: 600px;
+    margin-left: 8rem;
+}
+.inputProduct{
+    background: rgba(224, 200, 200, 0.25);
+    border: 2px solid #BD0707;
+    border-radius: 5px;
+    width: 664px;
+    height: 50px;
+}
+.label-file-add-product img{
+    /* right: 49rem; */
+    margin-left: 37%;
+    top: 26.5rem;
+    cursor: pointer;
+}
+.button-addProduct{
+    width: 100%;
+    margin: auto;
+    cursor: pointer;
+    margin-left: 8%;
+    background-color: #BD0707;
+    color: #FFF;
+}
+.profile-photo{
+    width: 25%;
+}
+.label-file-add-product img{
+    left: 14rem;
+}
+.title-product h2{
+    color: #BD0707;
+    margin-left: 9.5rem;
+}
+.imgProduct img{
+    width: 406px;
+    height: 450px;
+    margin-left: 20%;
+}

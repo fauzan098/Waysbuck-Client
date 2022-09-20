@@ -1,0 +1,47 @@
+.title-product h2{
+    color: #BD0707;
+    margin-left: 6rem;
+}
+.profile-photo{
+    width: 100%;
+    height: 100%;
+}
+.table-incomeTransaction table{
+    width: 50%;
+    margin-left: 6rem;
+    border: 1px solid #828282;
+    border-radius: 1px 0px 0px 0px;
+}
+.table-incomeTransaction table thead tr th{
+    background-color: #E5E5E5;;
+}
+.table-incomeTransaction table tbody tr .income {
+    color: #061E99;
+}
+.status-transaction-Success {
+    color: #78A85A;
+    margin-left: 1rem;
+    margin-top: 0.15rem;
+    margin-bottom: 0.1rem;
+  }
+  
+.status-transaction-OntheWay {
+    color: #00D1FF;
+    margin-left: 1rem;
+    margin-top: 0.15rem;
+    margin-bottom: 0.1rem;
+  }
+  
+.status-transaction-Cancel {
+    color: #E83939;
+    margin-left: 1rem;
+    margin-top: 0.15rem;
+    margin-bottom: 0.1rem;
+  }
+  
+.status-transaction-WaitingApprove {
+    color: #FF9900;
+    margin-left: 1rem;
+    margin-top: 0.15rem;
+    margin-bottom: 0.1rem;
+  }

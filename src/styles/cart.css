@@ -1,0 +1,53 @@
+.cart {
+    width :90%;
+    margin-left: 120px;
+}
+.left-side {
+    width: 400px;
+}
+.rigth-side{
+    /* width: 200px; */
+    margin-left: 50px;
+    margin-right: 130px;
+}
+hr{
+    border: 1px solid #974A4A;
+}
+.img-cart {
+    width: 90px;
+    height: 120px;
+    border-radius: 10px;
+}
+.d-flex .ms-2 .title-drink {
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 19px;
+    color: #BD0707;
+}
+.d-flex .ms-2 .d-flex .toping {
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 19px;
+    color: #974A4A;
+}
+.d-flex .ms-2 .d-flex .ms-2 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #974A4A;
+}
+.d-flex .price p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #BD0707;
+}
+.d-flex .price img {
+    cursor: pointer;
+    float: right;
+}
+.d-flex .basket {
+    height: 20px;
+    width: 16.668315887451172px;
+    margin-left: 30px;
+}
